@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+    <head>
+        
+    </head>
+    <body>
+        <button id="leftButton" onclick="socket.emit('left', {});">
+            Left
+        </button>
+        <button id="rightButton" onclick="socket.emit('right', {});">
+            Right
+        </button>
+        <button id="frontButton" onclick="socket.emit('front', {});">
+            Front
+        </button>
+        <button id="stopButton" onclick="socket.emit('stop', {});">
+            Stop
+        </button>
+    </body>
+    <script src="socket.io/socket.io.js"></script>
+    <script type="text/javascript">
+        var socket = io.connect();
+        
+    </script>
+</html>

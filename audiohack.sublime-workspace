@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"homeRoute"
+			],
+			[
+				"Route",
+				"Routes"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"compl",
+				"completedRoute"
+			],
+			[
+				"ac",
+				"activeRoute"
+			],
+			[
+				"Routes",
+				"routes"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"st",
+				"strict"
+			],
+			[
+				"require",
+				"requirejs"
+			],
+			[
+				"right",
+				"rightArr"
+			],
+			[
+				"left",
+				"leftArr"
+			],
+			[
+				"conso",
+				"console.	console.log()"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"calcul",
+				"calculatorTotal"
+			],
+			[
+				"ca",
+				"calculatorQuantities"
+			],
+			[
+				"calc",
+				"calculatorDOMs"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ingr",
+				"ingredientTemplate"
+			],
+			[
+				"ing",
+				"ingredientTemplate"
+			],
+			[
+				"comp",
+				"compareFn"
+			],
+			[
+				"com",
+				"compareFn"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 194.0,
+		"selected_items":
+		[
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"previ",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"prev",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markd",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 434.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ameya/Downloads/06863.TXT",
+		"/home/ameya/mordor/onering/routes.js",
+		"/home/ameya/mordor/onering/controllers/defaultRoute.js",
+		"/home/ameya/mordor/onering/synctest/index.html",
+		"/home/ameya/mordor/onering/synctest/js/main.js",
+		"/home/ameya/mordor/onering/synctest/js/app.js",
+		"/home/ameya/mordor/onering/synctest/js/router.js",
+		"/home/ameya/mordor/onering/synctest/js/views/home.js",
+		"/home/ameya/mordor/onering/synctest/.gitignore",
+		"/home/ameya/mordor/web.js",
+		"/home/ameya/Code/Brassplate/web.js",
+		"/home/ameya/mordor/onering/router.js",
+		"/home/ameya/mordor/onering/templates/home.hbs",
+		"/home/ameya/mordor/.gitignore",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/router.js",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/app.js",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/data/todos.js",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/main.js",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/store.js",
+		"/home/ameya/todomvc/dependency-examples/flight/app/js/utils.js",
+		"/home/ameya/Code/Brassplate/webapp/app/scripts/app.coffee",
+		"/home/ameya/Code/Brassplate/webapp/app/scripts/router.coffee",
+		"/home/ameya/Code/topcoder/577.2/250.cpp",
+		"/home/ameya/Code/Mordor/README.md",
+		"/home/ameya/Code/topcoder/577.2/500.cpp",
+		"/home/ameya/Code/ServerSideJS/web.js",
+		"/home/ameya/Code/ServerSideJS/middleware/login.js",
+		"/home/ameya/Code/StockTracker/web.js",
+		"/home/ameya/Code/ServerSideJS/webapp/loginPage/app/index.html",
+		"/home/ameya/Code/ServerSideJS/webapp/foo.js",
+		"/home/ameya/Code/ServerSideJS/webapp/model.js",
+		"/home/ameya/Code/ServerSideJS/middleware/handler.js",
+		"/home/ameya/Code/ServerSideJS/middleware/todo.md",
+		"/home/ameya/Code/ServerSideJS/app/routes.js",
+		"/home/ameya/Code/Cesium/cesium/Source/Scene/LabelCollection.js",
+		"/home/ameya/Code/Cesium/cesium/Apps/Sandcastle/gallery/Black Marble.html",
+		"/home/ameya/Code/ServerSideJS/jquery.js",
+		"/home/ameya/Code/ServerSideJS/backbone.js",
+		"/home/ameya/Code/ServerSideJS/backbone/backbone.js",
+		"/home/ameya/Code/StockTracker/index.html",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/view.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/operations.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/app.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/app/index.html",
+		"/home/ameya/Code/Brassplate/webapp/app/scripts/modules/Ingredients/templates/init.txt",
+		"/home/ameya/Code/Brassplate/Ingredients/app/test.html",
+		"/home/ameya/Code/Brassplate/Ingredients/app/Mid-Term Review.md",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/main.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/model.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/main.html",
+		"/home/ameya/Code/Brassplate/Ingredients/Gruntfile.js",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/localdata.json",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/ingredientDropdown.html",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/Calculator/ingredient.html",
+		"/home/ameya/Code/Brassplate/webapp/app/scripts/modules/Ingredients/JqueryCalls.coffee",
+		"/home/ameya/Code/Brassplate/Ingredients/debug/scripts/Calculator/model.js",
+		"/home/ameya/Code/Brassplate/Ingredients/app/components/STLJS/stl-es6.js",
+		"/home/ameya/Code/stlJS/stl-es6.js",
+		"/home/ameya/Code/flight/lib/model-lib.js",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/vendor/Icarus/component.js",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/vendor/typeahead.js/dist/typeahead.js",
+		"/home/ameya/Code/Brassplate/views/index.html",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/main.js",
+		"/home/ameya/Code/Brassplate/Ingredients/app/scripts/test.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"handle",
+			"dataTodosFiltered",
+			"jquery",
+			"';};",
+			"row",
+			"input",
+			"on",
+			"debug",
+			"console",
+			"trigger",
+			"$el",
+			"trigger",
+			"EventBus",
+			"eventbus",
+			"trigger",
+			"eventBus",
+			"selected",
+			"uglify",
+			"compass",
+			"requirej",
+			"require",
+			"compass"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"row-fluid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 367.0
+	},
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true
+}
